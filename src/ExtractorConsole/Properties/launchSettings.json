@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReferencedPackagesExtractorConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\dev\\avea\\Office\\Office-Platform\\staging C:\\users\\Josh\\Desktop\\AveaPackages.txt"
+    }
+  }
+}
